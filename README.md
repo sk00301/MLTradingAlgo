@@ -51,7 +51,7 @@ Backtesting & Performance Evaluation
   - `scikit-learn` — clustering (K-Means, etc.)
   - `yfinance` / `pandas_datareader` — market data fetching
   - `matplotlib`, `seaborn` — visualization and performance plots
-  - `scipy` / `PyPortfolioOpt` *(if applicable)* — portfolio optimization
+  - `scipy` / `PyPortfolioOpt` — portfolio optimization
 
 ---
 
